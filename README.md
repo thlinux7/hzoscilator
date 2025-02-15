@@ -47,7 +47,7 @@ We welcome contributions! Here’s how you can help:
 
 ## 📄 License
 
-This project is licensed under the **MIT License**. Feel free to use, modify, and distribute it as you see fit. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the **MIT License**. Feel free to use, modify, and distribute it as you see fit. See the [LICENSE](LICENSE.mt) file for more details.
 
 ---
 
